@@ -1,5 +1,5 @@
-FROM ubuntu:14.04
-MAINTAINER MarvAmBass
+FROM debian:12
+MAINTAINER migoni
 
 ## Install Postfix.
 
